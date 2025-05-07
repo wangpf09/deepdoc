@@ -1,0 +1,19 @@
+# 忽略临时目录
+temp/
+temp
+
+# 忽略版本控制系统文件
+.git/
+.gitignore
+
+# 忽略虚拟环境
+.venv/
+.idea/
+
+# 忽略其他不需要的文件
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+*.log
